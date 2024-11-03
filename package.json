@@ -18,6 +18,7 @@
   },
   "dependencies": {
     "@lucia-auth/adapter-prisma": "^4.0.1",
+    "mongoose": "^8.8.0",
     "nuxt": "^3.13.2",
     "vue": "latest",
     "vue-router": "latest"
