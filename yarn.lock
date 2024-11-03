@@ -2905,6 +2905,11 @@ gzip-size@^7.0.0:
   dependencies:
     duplexer "^0.1.2"
 
+h3-zod@^0.5.3:
+  version "0.5.3"
+  resolved "https://registry.yarnpkg.com/h3-zod/-/h3-zod-0.5.3.tgz#d961f15000d71bca933456f6efd102149b7993bc"
+  integrity sha512-wqlRd/d5d9sNYxmNglnL63J4v5HiZZrcXdLIiU2cBsy5gTwxrSH1AqtNrVkuUleshgNOAQldbuO06phdUIxuKA==
+
 h3@^1.12.0, h3@^1.13.0:
   version "1.13.0"
   resolved "https://registry.yarnpkg.com/h3/-/h3-1.13.0.tgz#b5347a8936529794b6754b440e26c0ab8a60dceb"
